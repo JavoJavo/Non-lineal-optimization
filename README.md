@@ -1,1 +1,1 @@
-# Non-lineal-optimization
+# Non-linear-optimization
